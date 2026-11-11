@@ -1,0 +1,12 @@
+# secrets
+.env
+.env.*
+
+# regenerable render intermediates (sh eunoia-booking-reel/build.sh recreates them)
+eunoia-booking-reel/out/
+eunoia-booking-reel/stills/
+
+# OS / editor
+Thumbs.db
+.DS_Store
+.vscode/
