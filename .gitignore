@@ -5,8 +5,14 @@
 # regenerable render intermediates (sh eunoia-booking-reel/build.sh recreates them)
 eunoia-booking-reel/out/
 eunoia-booking-reel/stills/
+eunoia-reel-objections/out/
+eunoia-reel-objections/stills/
 
 # OS / editor
 Thumbs.db
 .DS_Store
 .vscode/
+praxyz/praxyz-explainer/out/
+praxyz/praxyz-explainer/stills/
+praxyz/praxyz-simulator/out/
+praxyz/praxyz-simulator/stills/

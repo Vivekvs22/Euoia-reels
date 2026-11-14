@@ -24,3 +24,17 @@ LIB=/path/to/lemo-opuscar sh eunoia-booking-reel/build.sh
 ```
 
 Source: `index.html`, `main.js` (render loop), `film.js` (timeline), `ui.js` (Eunoia screens), `sprout.js` (mascot), `sound.py` (score, foley, mix).
+
+## eunoia-reel-objections: "But therapy isn't for me…"
+
+23 s · 1080×1920 · 30 fps · second reel in the series. Four common reasons people put off therapy, each shown as a large on-screen card and answered by the real booking screen (₹99 first session, your language, confidential checkout, a few taps to booked), ending on "Book your ₹99 first session · eunoia.care". Built to work on mute; new F-major score.
+
+| File | What |
+|---|---|
+| `eunoia-reel-objections/eunoia-reel-objections.mp4` | the finished reel (−14 LUFS) |
+| `eunoia-reel-objections/eunoia-reel-objections.srt` | subtitles (exact script text) |
+| `eunoia-reel-objections/poster.jpg` | cover frame (the hook) |
+| `eunoia-reel-objections/storyboard.jpg`, `TREATMENT.md`, `CREDITS` | plan and licences |
+| `voiceover-reel2/` | narration and timing |
+
+Rebuild: `LIB=/path/to/lemo-opuscar sh eunoia-reel-objections/build.sh`

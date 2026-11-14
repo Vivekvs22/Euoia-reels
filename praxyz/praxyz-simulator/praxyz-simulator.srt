@@ -1,0 +1,27 @@
+1
+00:00:00,250 --> 00:00:03,980
+Pilots train in a simulator before they ever fly.
+
+2
+00:00:03,980 --> 00:00:07,030
+Your first client should not be your first practice.
+
+3
+00:00:07,360 --> 00:00:09,480
+Why does everyone keep asking me that?
+
+4
+00:00:09,480 --> 00:00:13,594
+Praxyz is your simulator. AI patients who push back.
+
+5
+00:00:13,860 --> 00:00:17,200
+Every session ends with a full debrief.
+
+6
+00:00:18,260 --> 00:00:22,030
+Log your practice hours. Earn your certificate.
+
+7
+00:00:22,360 --> 00:00:25,980
+Praxyz. Practise here, before it's real.
